@@ -20,20 +20,13 @@ Features
 Read File: Displays the content of a specified file to the console.
 Write File: Writes the content provided by the user to a specified file. If the file doesn’t exist, it is created.
 Modify File: Appends new content to an existing file, adding the new content on a new line.
-Error Handling: Proper error handling to notify the user in case of issues like file not found, access permissions, or IO errors.
-Tools and Libraries Used
-Java: The programming language used to implement the solution.
-BufferedReader: Used for reading files efficiently.
-BufferedWriter: Used for writing content to files.
-FileReader: Used to read files in character format.
-FileWriter: Used to write characters to files.
-Scanner: Used to take user input for file operations.
-How the Program Works
-The program works interactively through the console. Upon execution:
 
-The user is prompted to enter the name of the file they want to interact with, including its extension (e.g., sample.txt).
-The user is then prompted to select an operation:
-1. Read File: The program reads the file’s contents and displays it in the console.
-2. Write File: The user enters content that will be written to the file. If the file does not exist, it will be created.
-3. Modify File: The user enters content to append to the file. The new content is added on a new line at the end of the file.
-Error messages are displayed if something goes wrong during the operation (e.g., file not found, IO exception).
+# OUTPUT OF THE TASK
+
+![Image](https://github.com/user-attachments/assets/86fb6938-cabc-4ed8-8758-b997bd271a91)
+![Image](https://github.com/user-attachments/assets/bfe7c718-5fae-4836-ab02-327b14b6dd74)
+
+![Image](https://github.com/user-attachments/assets/0ac8068c-a007-4546-8681-8b78fed87de7)
+![Image](https://github.com/user-attachments/assets/18407ba5-ca33-4bf0-977a-8ed5ceb09737)
+![Image](https://github.com/user-attachments/assets/88f9f4ea-15f2-421c-aee3-8d7a4eba84d4)
+![Image](https://github.com/user-attachments/assets/e09c61a1-e96f-4db7-92ba-f25469b99b2c)
